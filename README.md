@@ -1,6 +1,7 @@
 # Agilitas Lotto Website
 
 Welcome to **Agilitas Lotto** — a vibrant, interactive web platform showcasing the next era of lotto with engaging sections like “Join the Movement,” “Events,” and more, all designed with smooth polygon-shaped card animations, glowing borders, and responsive layouts.
+<img width="1913" height="856" alt="image" src="https://github.com/user-attachments/assets/6a22992a-461d-468f-b039-92324c3330ed" />
 
 ## Table of Contents
 
