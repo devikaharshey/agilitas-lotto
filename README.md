@@ -84,7 +84,7 @@ Agilitas Lotto is an interactive, visually rich React/Next.js web application bu
 
 ## Project Structure
 
-```markdown
+```
 /.next                  # Next.js build output
 /app                    # Main app directory
   favicon.ico           # Favicon file
