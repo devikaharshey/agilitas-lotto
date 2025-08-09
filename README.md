@@ -84,12 +84,30 @@ Agilitas Lotto is an interactive, visually rich React/Next.js web application bu
 
 ## Project Structure
 
-```
-/components       # Reusable UI components (e.g. ParallelogramCard, EventCard)
-/pages            # Next.js pages and routes
-/public           # Public static assets like images
-/styles           # Tailwind and global styles
-/sections         # Page sections like JoinMovement, Events
+```markdown
+/.next                  # Next.js build output
+/app                    # Main app directory
+  favicon.ico           # Favicon file
+  globals.css           # Global CSS styles
+  layout.tsx            # Layout component for the app
+  page.tsx              # Main entry page
+
+/components             # Components folder
+  /sections             # Section components
+    Events.tsx
+    Footer.tsx
+    Hero.tsx
+    JoinMovement.tsx
+    LottoScroll.tsx
+    Tradition.tsx
+  /ui                   # UI components
+    Navbar.tsx
+
+/lib                    # Utility libraries
+  utils.ts              # Utility functions
+
+/node_modules           # Node dependencies
+/public                 # Public assets
 ```
 
 ---
